@@ -1,10 +1,6 @@
 ## AutoGearComponents - Projeto de Integração de Sistemas
 
-Projeto desenvolvido para integrar componentes entre SAP, Moloni e OutSystems, com o objetivo de melhorar o sistema de informação de uma organização. A empresa fictícia **Auto Gear Components (AGC)** foi criada com foco na gestão da venda de pneus automóveis.
-
-### Objetivo do Projeto
-
-Harmonização eficiente entre produtos registados no Moloni e a base de clientes do SAP, incluindo a emissão de faturas resultantes de compras de clientes, promovendo uma gestão mais fluida e eficaz das transações comerciais da AGC.
+Project to integrate components between SAP, Moloni and OutSystems with the purpose of improving an organization's information system. Creation of an organization called Auto Gear Components (AGC) whose focus is the management of the sale of automobile tires. The core business process involves efficient harmonization between products registered in Moloni and in the SAP customer base. Furthermore, it involves issuing invoices resulting from customer purchases, thus promoting a more fluid and effective management of AGC's commercial transactions.
 
 ### Organização da Pasta
 
